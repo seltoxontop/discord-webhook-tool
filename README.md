@@ -11,4 +11,4 @@ Discord tool that spams and deletes given webhook
 
 
 
-# dont forget to install imports
+### dont forget to install imports
